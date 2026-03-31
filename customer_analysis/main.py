@@ -6,7 +6,7 @@ category_revenue = {}
 city_revenue = {}
 daily_revenue = {}
 
-with open("orders.csv", newline="", encoding="utf-8-sig") as file:
+with open("data/orders.csv", newline="", encoding="utf-8-sig") as file:
     reader = csv.DictReader(file)
 
     for row in reader:
