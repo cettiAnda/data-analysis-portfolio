@@ -74,6 +74,7 @@ The script:
 
 
 ## Example Output
+
 Total revenue: €4020.00
 Best customer: Alice
 Best category: Electronics
