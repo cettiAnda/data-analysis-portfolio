@@ -44,9 +44,9 @@ The script reads the dataset and computes:
 
 The program identifies:
 
-- **Best customer** → highest total spending  
-- **Top category** → most profitable category  
-- **Top city** → city with highest revenue  
+- **Best customer** = highest total spending  
+- **Top category** = most profitable category  
+- **Top city** = city with highest revenue  
 
 ---
 
