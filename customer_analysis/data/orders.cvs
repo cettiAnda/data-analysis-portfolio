@@ -1,0 +1,11 @@
+order_id,customer,city,category,amount,date
+1,Alice,Rome,Electronics,1200,2024-01-10
+2,Bob,Milan,Clothing,80,2024-01-11
+3,Alice,Rome,Accessories,150,2024-01-12
+4,Charlie,Naples,Electronics,700,2024-01-13
+5,Bob,Milan,Electronics,400,2024-01-14
+6,Alice,Rome,Clothing,200,2024-01-15
+7,Charlie,Naples,Accessories,120,2024-01-16
+8,Bob,Milan,Accessories,90,2024-01-17
+9,David,Turin,Electronics,950,2024-01-18
+10,Emma,Rome,Clothing,130,2024-01-19
