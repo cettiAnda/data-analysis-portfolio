@@ -39,6 +39,7 @@ Extracts the hour from each email and counts how many emails were sent at each t
 |-------------------|-------------|
 | cwen@iupui.edu    | 5           |
 | ...               | ...         |
+
 The user who sent the most emails is: cwen@iupui.edu
 
 | Hour    | Emails Sent |
