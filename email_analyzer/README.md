@@ -35,20 +35,18 @@ Extracts the hour from each email and counts how many emails were sent at each t
 
 ## Example Output
 
-Email                          Emails Sent
---------------------------------------------------
-cwen@iupui.edu                5
-...
+| Email             | Emails Sent |
+|-------------------|-------------|
+| cwen@iupui.edu    | 5           |
+| ...               | ...         |
+The user who sent the most emails is: cwen@iupui.edu
 
-The user who sent the most emails is: zqian@umich.edu
+| Hour    | Emails Sent |
+|---------|-------------|
+| 09      | 5           |
+| ...     | ...         |
 
-Hour       Emails Sent
-------------------------------
-09         3
-10         2
-...
-
-The hour with the highest number of emails is: 10
+The hour with the highest number of emails is: 09
 
 ---
 
